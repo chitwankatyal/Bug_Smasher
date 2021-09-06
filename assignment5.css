@@ -1,0 +1,17 @@
+/*Created By: Chitwan Katyal
+Student ID: 301169422
+Assignment 5*/
+
+body {
+    font-family: Arial Rounded MT;
+    background : linear-gradient(to top, #78aeff, #c7eaff)
+}
+
+h6 {
+    background-color: darkblue;
+    color: white;
+    padding: 5px;
+    width: 790px;  
+    border-style: solid;
+    border-color: cyan;
+}
